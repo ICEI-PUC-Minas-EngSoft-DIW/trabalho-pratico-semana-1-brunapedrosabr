@@ -2,17 +2,17 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Bruna Pedrosa Nunes
+Matricula: 901902
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Print Voe Gol](images/PrintVoeGol.png)
 
 ## Tela de projeto no Replit
 
-`<Coloque aqui o print da tela do projeto no Replit>`
-
+![Print Replit](images/PrintReplit.png)
+![Print Web Replit](images/PrintWebReplit.png)
 
 ## Orientações sobre Linguagem MarkDown
 
